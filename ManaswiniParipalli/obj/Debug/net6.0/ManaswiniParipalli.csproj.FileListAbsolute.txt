@@ -1,0 +1,18 @@
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\obj\Debug\net6.0\ManaswiniParipalli.csproj.AssemblyReference.cache
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\obj\Debug\net6.0\ManaswiniParipalli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\obj\Debug\net6.0\ManaswiniParipalli.AssemblyInfoInputs.cache
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\obj\Debug\net6.0\ManaswiniParipalli.AssemblyInfo.cs
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\obj\Debug\net6.0\ManaswiniParipalli.csproj.CoreCompileInputs.cache
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\bin\Debug\net6.0\ManaswiniParipalli.exe
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\bin\Debug\net6.0\ManaswiniParipalli.deps.json
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\bin\Debug\net6.0\ManaswiniParipalli.runtimeconfig.json
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\bin\Debug\net6.0\ManaswiniParipalli.dll
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\bin\Debug\net6.0\ManaswiniParipalli.pdb
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\obj\Debug\net6.0\ManaswiniParipalli.csproj.CopyComplete
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\obj\Debug\net6.0\ManaswiniParipalli.dll
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\obj\Debug\net6.0\refint\ManaswiniParipalli.dll
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\obj\Debug\net6.0\ManaswiniParipalli.pdb
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\obj\Debug\net6.0\ManaswiniParipalli.genruntimeconfig.cache
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\obj\Debug\net6.0\ref\ManaswiniParipalli.dll
+C:\Users\manas\OneDrive\Pictures\ManaswiniParipalli\bin\Debug\net6.0\trainings (correct).txt
